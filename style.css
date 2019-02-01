@@ -1,0 +1,270 @@
+body{
+  font-family: Verdana;
+  margin: 0;
+}
+
+/*Homepage Header*/
+
+.header{
+  background-image: url("classroom_header.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%;
+  position: relative;
+}
+
+.header h2 {
+   left: 0;
+   position:absolute;
+   text-align:center;
+   top: 200px;
+   width: 100%;
+   color: black;
+   font-size: 100px;
+
+}
+
+/*Project Mandate Header*/
+
+.header-project-mandate{
+  background-image: url("laptop_squad.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%;
+  position: relative;
+}
+
+
+.header-project-mandate h2 {
+   left: 0;
+   position:absolute;
+   text-align:center;
+   top: 200px;
+   width: 100%;
+   color: black;
+   font-size: 100px;
+
+}
+
+/*Stakeholders Header*/
+
+.header-stakeholders{
+  background-image: url("book_class.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%;
+  position: relative;
+}
+
+.header-stakeholders h2 {
+   left: 0;
+   position:absolute;
+   text-align:center;
+   top: 200px;
+   width: 100%;
+   color: black;
+   font-size: 100px;
+
+}
+
+/*Functional Requirements Header*/
+
+.header-functional-requirements{
+  background-image: url("class_hall.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%;
+  position: relative;
+}
+
+.header-functional-requirements h2 {
+   left: 0;
+   position:absolute;
+   text-align:center;
+   top: 200px;
+   width: 100%;
+   color: black;
+   font-size: 100px;
+
+}
+
+/*Non-Functional Requirements Header*/
+
+.header-non-functional-requirements{
+  background-image: url("cafe_white.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%;
+  position: relative;
+}
+
+.header-non-functional-requirements h2 {
+   left: 0;
+   position:absolute;
+   text-align:center;
+   top: 180px;
+   width: 100%;
+   color: black;
+   font-size: 100px;
+
+}
+
+/*Scenarios Header*/
+
+.header-scenarios{
+  background-image: url("lockers.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%;
+  position: relative;
+}
+
+.header-scenarios h2 {
+   left: 0;
+   position:absolute;
+   text-align:center;
+   top: 200px;
+   width: 100%;
+   color: black;
+   font-size: 100px;
+
+}
+
+/*Hierorical Task Analysis Header*/
+
+.header-hierorical-task-analysis{
+  background-image: url("chair_room.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%;
+  position: relative;
+}
+
+.header-hierorical-task-analysis h2 {
+   left: 0;
+   position:absolute;
+   text-align:center;
+   top: 200px;
+   width: 100%;
+   color: black;
+   font-size: 100px;
+
+}
+
+/*Contributions Header*/
+
+.header-contributions{
+  background-image: url("book_stack.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%;
+  position: relative;
+}
+
+.header-contributions h2 {
+   left: 0;
+   position:absolute;
+   text-align:center;
+   top: 200px;
+   width: 100%;
+   color: black;
+   font-size: 100px;
+
+}
+
+.header p {
+   left: 0;
+   position:absolute;
+   text-align:center;
+   top: 380px;
+   width: 100%;
+   color: black;
+   font-size: 40px;
+   font-style: italic;
+
+}
+
+.container {
+  width: 100%;
+}
+
+/* The navbar */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  width: 100%;
+  height: 70px;
+}
+
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 30px 30px;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.content{
+  text-align: center;
+  background-color: white;
+  height: auto;
+  width: 100%;
+  padding-top: 1px;
+  padding-bottom: 10px;
+  background-color: #333
+}
+
+.content p {
+  color: #f2f2f2;
+}
+
+.words p {
+  color: #f2f2f2;
+  text-align: left;
+  padding-left: 700px;
+  padding-right: 700px;
+}
+
+
+.content h1 {
+  color: #f2f2f2;
+}
+
+.tab{
+  margin-left: 40px;
+}
+.content h2 {
+  color: #f2f2f2;
+  padding-left: 700px;
+  text-align: left;
+}
+
+.content h3 {
+  color: #f2f2f2;
+  padding-left: 700px;
+  text-align: left;
+  margin-left: 20px;
+}
+
+.navigation{
+  height: 200px;
+  background-color: red;
+  width: 100%;
+  padding-top: 1px;
+}
+
+.footer{
+  text-align: center;
+  height: 200px;
+  background-color: white;
+  width: 100%;
+  padding-top: 1px;
+
+}
